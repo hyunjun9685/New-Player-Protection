@@ -2,7 +2,7 @@
   "General": {
     "DbPathOverride": "",
     "EnableDebugging": false,
-    "PlayerUpdateIntervalInMins": 10,
+    "PlayerUpdateIntervalInMins": 60,
     "IgnoreAdmins": false,
     "AllowNewPlayersToDamageEnemyStructures": false,
     "AllowPlayersToDisableOwnedTribeProtection": true,
@@ -50,7 +50,7 @@
     ],
 
     "NewPlayerProtection": {
-      "NewPlayerMaxLevel": 60,
+      "NewPlayerMaxLevel": 200,
       "HoursOfProtection": 72
     },
 
